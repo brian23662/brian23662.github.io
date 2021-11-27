@@ -98,7 +98,7 @@
 
 	body, input, select, textarea {
 		font-family: "DM Serif Display", Arial, Helvetica, sans-serif;
-		font-size: 40pt;
+		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.65;
 	}
@@ -177,7 +177,7 @@
 		}
 
 	h1 {
-		font-size: 2em;
+		font-size: 5em;
 	}
 
 		@media screen and (max-width: 480px) {
