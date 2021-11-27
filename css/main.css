@@ -75,7 +75,7 @@
 	}
 
 	body {
-		background: #fff;
+		background: #fafafa;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -92,12 +92,12 @@
 /* Type */
 
 	body {
-		background-color: #fff;
+		background-color: #fafafa;
 		color: #22313F;
 	}
 
 	body, input, select, textarea {
-		font-family: "Nunito Sans", Arial, Helvetica, sans-serif;
+		font-family: "DM Serif Display", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
 		line-height: 1.65;
