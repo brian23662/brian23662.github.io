@@ -177,7 +177,7 @@
 		}
 
 	h1 {
-		font-size: 5em;
+		font-size: 4.5em;
 	}
 
 		@media screen and (max-width: 480px) {
@@ -187,11 +187,6 @@
 			}
 
 		}
-
-	.logo { 	
-		font-size: x-large;
-		color: black;
-	}
 
 	h2 {
 		font-size: 2.5em;
@@ -1422,9 +1417,9 @@
 			}
 
 				#nav ul li a {
-					color: rgba(255, 255, 255, 0.5);
+					color: rgba(0, 0, 0, 0.5);
 					text-decoration: none;
-					font-size: 1.5em;
+					font-size: 2.5em;
 				}
 
 					#nav ul li a:hover {
