@@ -188,8 +188,9 @@
 
 		}
 
-	#logo { 	
+	.logo { 	
 		font-size: 72px;
+		color: black;
 	}
 
 	h2 {
