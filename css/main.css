@@ -1438,7 +1438,7 @@
 
 				}
 
-/* Banner */
+/* banner */
 
 	body.is-loading #banner > .inner {
 		opacity: 0;
@@ -1528,7 +1528,7 @@
 		}
 
 		#banner a {
-			color: #FFF;
+			color: #000000;
 			text-decoration: none;
 		}
 
@@ -1547,7 +1547,7 @@
 			}
 
 				#banner h1 {
-					font-size: 2.25em;
+					font-size: 3.25em;
 				}
 
 				#banner p {
