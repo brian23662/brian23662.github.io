@@ -284,10 +284,13 @@
 	.align-right {
 		text-align: right;
 	}
+		
 	.map {
 		margin-left: auto;
 		margin-right: auto;
 		padding: 30px;
+	}
+	
 /* Box */
 
 	.box {
