@@ -267,7 +267,12 @@
 		hr.major {
 			margin: 3em 0;
 		}
-
+	
+	iframe {
+		margin-left: auto;
+		margin-right: auto;
+		padding: 30px;
+		
 	.align-left {
 		text-align: left;
 	}
