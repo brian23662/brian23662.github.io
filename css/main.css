@@ -269,10 +269,12 @@
 		}
 	
 	iframe {
+		max-width: 400px;
+		max-height: 600px;
 		margin-left: auto;
 		margin-right: auto;
 		padding: 30px;
-		
+	}
 	.align-left {
 		text-align: left;
 	}
