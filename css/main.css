@@ -263,6 +263,10 @@
 		border-bottom: solid 1px;
 		margin: 2em 0;
 	}
+		
+	.map {
+		padding: 30px;
+	}
 
 		hr.major {
 			margin: 3em 0;
