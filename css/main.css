@@ -268,13 +268,6 @@
 			margin: 3em 0;
 		}
 	
-	iframe {
-		max-width: 400px;
-		max-height: 600px;
-		margin-left: auto;
-		margin-right: auto;
-		padding: 30px;
-	}
 	.align-left {
 		text-align: left;
 	}
@@ -287,13 +280,6 @@
 		text-align: right;
 	}
 		
-	.map {
-		max-width: 400px;
-		max-height: 600px;
-		margin-left: auto;
-		margin-right: auto;
-		padding: 30px;
-	}
 	
 /* Box */
 
